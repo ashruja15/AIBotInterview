@@ -1,0 +1,43 @@
+[
+  {"difficulty":"easy","question":"What is an operating system?","answer":"An operating system is system software that manages hardware and software resources and provides services to programs"},
+  {"difficulty":"easy","question":"What is a process?","answer":"A process is a program in execution with its own memory space"},
+  {"difficulty":"medium","question":"What is a thread?","answer":"A thread is a lightweight process that shares memory with other threads"},
+  {"difficulty":"medium","question":"What is context switching?","answer":"Context switching is the process of saving and restoring state of processes for multitasking"},
+  {"difficulty":"medium","question":"What is deadlock?","answer":"Deadlock is a situation where processes wait indefinitely for resources held by each other"},
+  {"difficulty":"hard","question":"Explain process scheduling","answer":"Process scheduling decides which process gets CPU time based on algorithms like FCFS SJF and Round Robin"},
+  {"difficulty":"hard","question":"What is virtual memory?","answer":"Virtual memory allows execution of processes larger than physical memory using disk space"},
+
+  {"difficulty":"easy","question":"What is a computer network?","answer":"A computer network is a group of interconnected devices that share resources"},
+  {"difficulty":"easy","question":"What is IP address?","answer":"An IP address is a unique identifier assigned to devices on a network"},
+  {"difficulty":"medium","question":"What is TCP?","answer":"TCP is a connection oriented protocol that ensures reliable data transmission"},
+  {"difficulty":"medium","question":"What is UDP?","answer":"UDP is a connectionless protocol that provides faster but unreliable communication"},
+  {"difficulty":"medium","question":"What is DNS?","answer":"DNS translates domain names into IP addresses"},
+  {"difficulty":"hard","question":"Explain OSI model","answer":"OSI model has seven layers including physical data link network transport session presentation and application"},
+  {"difficulty":"hard","question":"What is HTTP and HTTPS?","answer":"HTTP is a protocol for communication while HTTPS is secure version using encryption"},
+
+  {"difficulty":"easy","question":"What is HTML?","answer":"HTML is used to structure content on web pages"},
+  {"difficulty":"easy","question":"What is CSS?","answer":"CSS is used to style web pages"},
+  {"difficulty":"easy","question":"What is JavaScript?","answer":"JavaScript is used to make web pages interactive"},
+  {"difficulty":"medium","question":"What is DOM?","answer":"DOM is a programming interface for HTML and XML documents"},
+  {"difficulty":"medium","question":"What is responsive design?","answer":"Responsive design ensures web pages work on different devices"},
+  {"difficulty":"medium","question":"What is REST API?","answer":"REST API allows communication between client and server using HTTP methods"},
+  {"difficulty":"hard","question":"What is CORS?","answer":"CORS is a mechanism that allows restricted resources on a web page to be requested from another domain"},
+  {"difficulty":"hard","question":"What is local storage?","answer":"Local storage allows storing data in browser with no expiration time"},
+
+  {"difficulty":"easy","question":"What is DBMS?","answer":"DBMS is software used to store manage and retrieve data efficiently"},
+  {"difficulty":"easy","question":"What is a table?","answer":"A table is a collection of rows and columns in a database"},
+  {"difficulty":"medium","question":"What is primary key?","answer":"Primary key uniquely identifies each record in a table"},
+  {"difficulty":"medium","question":"What is foreign key?","answer":"Foreign key links one table to another"},
+  {"difficulty":"medium","question":"What is normalization?","answer":"Normalization reduces redundancy and improves data integrity"},
+  {"difficulty":"medium","question":"What is SQL?","answer":"SQL is a language used to interact with databases"},
+  {"difficulty":"hard","question":"Explain ACID properties","answer":"ACID stands for atomicity consistency isolation and durability"},
+  {"difficulty":"hard","question":"What is indexing?","answer":"Indexing improves speed of data retrieval operations"},
+
+  {"difficulty":"easy","question":"What is Java?","answer":"Java is an object oriented programming language"},
+  {"difficulty":"easy","question":"What is JVM?","answer":"JVM is Java Virtual Machine that executes Java bytecode"},
+  {"difficulty":"medium","question":"What is inheritance?","answer":"Inheritance allows a class to acquire properties of another class"},
+  {"difficulty":"medium","question":"What is polymorphism?","answer":"Polymorphism allows methods to behave differently based on object"},
+  {"difficulty":"medium","question":"What is encapsulation?","answer":"Encapsulation binds data and methods together"},
+  {"difficulty":"hard","question":"What is multithreading?","answer":"Multithreading allows concurrent execution of threads"},
+  {"difficulty":"hard","question":"What is exception handling?","answer":"Exception handling manages runtime errors using try catch blocks"}
+]

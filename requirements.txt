@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+requests
+elevenlabs
+SpeechRecognition
+pydub
+pipwin
+pyaudio
